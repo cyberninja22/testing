@@ -1,0 +1,22 @@
+INFO:__main__:Add: 20 + 0 = 20
+INFO:__main__:subtract: 20 + 0 = 20
+INFO:__main__:multiply: 20 + 0 = 0
+ERROR:__main__:Tried to divide by zero
+Traceback (most recent call last):
+  File "/Users/sharathg/Desktop/Life/SDE/Dabeaz/testing/log_test/logging_modes.py", line 43, in divide
+    result=  x/y
+             ~^~
+ZeroDivisionError: division by zero
+INFO:__main__:divide: 20 + 0 = None
+ERROR:__main__:Lavde lag gaye bhai
+INFO:__main__:Add: 20 + 0 = 20
+INFO:__main__:subtract: 20 + 0 = 20
+INFO:__main__:multiply: 20 + 0 = 0
+ERROR:__main__:Tried to divide by zero
+Traceback (most recent call last):
+  File "/Users/sharathg/Desktop/Life/SDE/Dabeaz/testing/log_test/logging_modes.py", line 43, in divide
+    result=  x/y
+             ~^~
+ZeroDivisionError: division by zero
+INFO:__main__:divide: 20 + 0 = None
+ERROR:__main__:Lavde lag gaye bhai

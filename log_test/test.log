@@ -1,0 +1,22 @@
+2025-09-07 19:25:36,907:INFO:Add: 20 + 0 = 20
+2025-09-07 19:25:36,908:INFO:subtract: 20 + 0 = 20
+2025-09-07 19:25:36,908:INFO:multiply: 20 + 0 = 0
+2025-09-07 19:25:36,908:ERROR:Tried to divide by zero
+Traceback (most recent call last):
+  File "/Users/sharathg/Desktop/Life/SDE/Dabeaz/testing/log_test/logging_modes.py", line 43, in divide
+    result=  x/y
+             ~^~
+ZeroDivisionError: division by zero
+2025-09-07 19:25:36,916:INFO:divide: 20 + 0 = None
+2025-09-07 19:25:36,916:ERROR:Lavde lag gaye bhai
+2025-09-07 19:25:52,631:INFO:Add: 20 + 0 = 20
+2025-09-07 19:25:52,631:INFO:subtract: 20 + 0 = 20
+2025-09-07 19:25:52,631:INFO:multiply: 20 + 0 = 0
+2025-09-07 19:25:52,631:ERROR:Tried to divide by zero
+Traceback (most recent call last):
+  File "/Users/sharathg/Desktop/Life/SDE/Dabeaz/testing/log_test/logging_modes.py", line 43, in divide
+    result=  x/y
+             ~^~
+ZeroDivisionError: division by zero
+2025-09-07 19:25:52,637:INFO:divide: 20 + 0 = None
+2025-09-07 19:25:52,637:ERROR:Lavde lag gaye bhai
