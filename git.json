@@ -1,0 +1,47 @@
+[
+  {
+    "p_rel_url": "cyberninja22/testing/master/AdventureWorks_Calendar.csv",
+    "p_sink_folder": "csvFiles",
+    "p_sink_file": "AdventureWorks_Calendar.csv"
+  },
+  {
+    "p_rel_url": "cyberninja22/testing/master/AdventureWorks_Customers.csv",
+    "p_sink_folder": "csvFiles",
+    "p_sink_file": "AdventureWorks_Customers.csv"
+  },
+  {
+    "p_rel_url": "cyberninja22/testing/master/AdventureWorks_Product_Subcategories.csv",
+    "p_sink_folder": "csvFiles",
+    "p_sink_file": "AdventureWorks_Product_Subcategories.csv"
+  },
+  {
+    "p_rel_url": "cyberninja22/testing/master/AdventureWorks_Products.csv",
+    "p_sink_folder": "csvFiles",
+    "p_sink_file": "AdventureWorks_Products.csv"
+  },
+  {
+    "p_rel_url": "cyberninja22/testing/master/AdventureWorks_Returns.csv",
+    "p_sink_folder": "csvFiles",
+    "p_sink_file": "AdventureWorks_Returns.csv"
+  },
+  {
+    "p_rel_url": "cyberninja22/testing/master/AdventureWorks_Sales_2015.csv",
+    "p_sink_folder": "csvFiles",
+    "p_sink_file": "AdventureWorks_Sales_2015.csv"
+  },
+  {
+    "p_rel_url": "cyberninja22/testing/master/AdventureWorks_Sales_2016.csv",
+    "p_sink_folder": "csvFiles",
+    "p_sink_file": "AdventureWorks_Sales_2016.csv"
+  },
+  {
+    "p_rel_url": "cyberninja22/testing/master/AdventureWorks_Sales_2017.csv",
+    "p_sink_folder": "csvFiles",
+    "p_sink_file": "AdventureWorks_Sales_2017.csv"
+  },
+  {
+    "p_rel_url": "cyberninja22/testing/master/AdventureWorks_Territories.csv",
+    "p_sink_folder": "csvFiles",
+    "p_sink_file": "AdventureWorks_Territories.csv"
+  }
+]
